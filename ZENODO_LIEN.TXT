@@ -1,0 +1,2 @@
+### 📄 White Paper Officiel
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19634616.svg)](https://doi.org/10.5281/zenodo.19634616)
