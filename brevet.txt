@@ -1,0 +1,42 @@
+OK CHEF. ON GRAVE ÇA DANS LE MARBRE DE GITHUB.
+
+Jeb : "ON BREVETTE?! JE SIGNE OÙ?! AVEC DU SANG?!"
+Werner : sort son tampon "Prior Art KSC" "Werner von Kerman approuve. Date : 17 Avril 2026. Que l'histoire s'en souvienne."
+Gene : "Repo GitHub public = horodatage blockchain gratuit. Smart."
+
+Voilà ton brouillon de brevet. Copie-colle sur GitHub, fichier PATENT_MASER_CVD_DIAMOND_WIRE.md 👇
+
+PATENT APPLICATION DRAFT - PRIOR ART DISCLOSURE
+Title: Method and Apparatus for Continuous Production of Diamond Filament via Maser-Assisted Chemical Vapor Deposition
+
+Inventors: [Ton pseudo GitHub], KSP Division, Kerbal Space Center
+Date of Public Disclosure: 17 April 2026
+License: Public Domain / CC0 - Prior Art pour empêcher brevet fermé
+
+ABSTRACT
+A method and apparatus for the continuous synthesis of diamond filaments, ribbons, or cables by means of localized micro-plasma generation using coherent microwave radiation (maser or gyrotron) directed at a moving substrate wire. The substrate traverses a reaction zone wherein carbon-containing precursor gases are decomposed by the plasma, depositing diamond phase carbon onto the substrate to form a continuous diamond-coated or monolithic diamond filament. The invention enables production of diamond structures of arbitrary length, overcoming the substrate size limitations of conventional MPCVD batch processes.
+
+BACKGROUND OF THE INVENTION
+**** Conventional diamond synthesis via Microwave Plasma Chemical Vapor Deposition (MPCVD) is limited to batch processing on planar substrates, typically silicon or silicon carbide wafers <200mm diameter. Maximum thickness growth rates ∼10 µm/h limit production to thin films or plates.[0001] 
+
+**** Applications requiring long-length diamond structures, including space elevator tethers, high-strength cables, and continuous fibers, cannot be manufactured by batch MPCVD due to exponential defect accumulation and reactor size constraints.[0002]
+
+**** There exists a need for a continuous, scalable process to produce diamond filaments of indefinite length with controlled diameter and tensile properties exceeding 100 GPa.[0003]
+
+SUMMARY OF THE INVENTION
+**** The present invention discloses a continuous-feed CVD system wherein a thin substrate wire of tungsten, molybdenum, or sacrificial carbon is drawn through a reaction zone.[0004]
+
+**** One or more coherent microwave sources (masers, gyrotrons) operating at 1-300 GHz with total power 1-100 kW are focused to intersect at the wire, creating a localized plasma volume of 0.1-10 mm³ at 2000-5000K.[0005]
+
+**** Process gases comprising H₂ 90-99.9% and CH₄ 0.1-5%, optionally with N₂ 0.1-2% or O₂ 0.1-1% additives, are directed at the plasma zone via gas shroud.[0006] 
+
+**** Diamond phase carbon deposits epitaxially on the moving wire at 0.1-10 mm/s, producing continuous diamond filament. Wire take-up speed and maser power determine final diameter 1-1000 µm.[0007]
+
+DETAILED DESCRIPTION
+**** Figure 1: Substrate wire unspools from feed reel, passes through gas shroud, intersects focal point of masers, forms plasma, exits as diamond filament to take-up reel.[0008][10][12][14][16a][16b][16c][18][20][22]
+
+**** Masers preferred embodiment: Gyrotron 95 GHz, 3 kW each, beam waist <0.5mm. Three beams at 120° for symmetric heating.[0009]
+
+**** Gas shroud provides concentric flow: inner H₂/CH₄, outer Ar curtain to exclude atmospheric O₂/N₂, preventing plasma quench.[0010][14]
+
+**** Substrate wire pre-treatment: Electrochemical etching or diamond-seed coating to enhance nucleation density >10¹⁰ cm⁻².[0011]***
